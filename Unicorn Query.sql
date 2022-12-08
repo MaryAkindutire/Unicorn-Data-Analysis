@@ -100,8 +100,3 @@ GROUP BY Industry, Investors_
 ORDER BY no_of_companies_invested_in DESC
 
 
-
-
-
-
---DESKTOP-MMCSPEP\SQLEXPRESS
